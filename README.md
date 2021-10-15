@@ -1,2 +1,2 @@
-# linu-scripts
+# linux-scripts
 Vários script utilitários.
